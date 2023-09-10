@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Dylan Rotich and I'm a Front End Developer
+### Hi there 👋 my name is Dylan Rotich and I'm a Full Stack Developer with a bias for the Front End
 ## Background
 I have a certificate of Full-Stack Development from the UC Berkeley Extension 
 ## Current
